@@ -37,4 +37,5 @@ Accent, Accent_r, Blues, Blues_r, BrBG, BrBG_r, BuGn, BuGn_r, BuPu, BuPu_r, CMRm
 
 # Actual colour spectrum of the names
 ![colormaps](colormaps.png)
+https://goo.gl/images/W6bFwT
 
